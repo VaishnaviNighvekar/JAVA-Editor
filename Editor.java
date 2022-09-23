@@ -587,7 +587,7 @@ t.insert(nodename,t.getCaretPosition());
 
 
 	else if (s.equals("Run Applet")) {
-	    File ff=new File("C:\\Users\\admin\\fille2.bat");
+	    File ff=new File("fille2.bat");
 	try{
 	    String s1 = "", sl = "",temp1,temp2; 
 	    int flag=1;
