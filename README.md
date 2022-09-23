@@ -7,6 +7,6 @@ The screen for java editor is divided into two parts
 	All this type of functions of the editor will help the user to type the program conveniently and efficiently.Rather than this functioning there is a status bar and a menubar in the editor window which will help you in other options. 
   
 Steps to install and run editor:
-1)Install the JDK Software and Set JAVA_HOME on a Windows System
-2)Download all the git editor project file
-3)Run Editor.java file
+1. Install the JDK Software and Set JAVA_HOME on a Windows System
+2. Download all the git editor project file
+3. Run Editor.java file
